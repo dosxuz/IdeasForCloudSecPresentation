@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "a4f27522600f96b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ee82ead76dc6f62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46945f67d99a0f66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExploitingTAP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ExploitingTAP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13beb1dd85b9c238",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a3a36829a363fde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c0c56efea8cef4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "db354b760fe58f03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e937c5db17c1669b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eda2a56420edde7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8cda03cc2fdd04a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b35c575971dfce28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ExploitingTAP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ExploitingTAP"
+            }
+          },
+          {
+            "id": "aa870897f39c1e79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ExploitingTAP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ExploitingTAP"
+            }
+          },
+          {
+            "id": "a4645777b855af35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bd5627d3dcc6ff3c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e26c6f0b8cfc2973",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ExploitingTAP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ExploitingTAP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "46945f67d99a0f66",
+  "lastOpenFiles": [
+    "Detecting TAP Abuse/Analysing TAP Abuse Logs.md",
+    "ExploitingTAP.md",
+    "Detecting TAP Abuse",
+    "Pictures"
+  ]
+}
