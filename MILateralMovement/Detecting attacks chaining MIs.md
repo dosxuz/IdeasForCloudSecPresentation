@@ -134,7 +134,7 @@ Here since, we are considering that we already have compromised a user called `v
 
 - This user has `Virtual Machine Contributor` on the `ResourceGroup1`
 
-![[10.png]]
+![[MILateralMovement/Pictures/10.png]]
 
 ![[11.png]]
 
@@ -332,7 +332,7 @@ AzureActivity
 
 - This will filter out all the events where a Managed Identity accessed another resource.
 
-![[27.png]]
+![[MILateralMovement/Pictures/27.png]]
 
 
 

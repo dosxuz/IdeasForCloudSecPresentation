@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ExploitingTAP.md",
+                "file": "MILateralMovement/Detecting attacks chaining MIs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ExploitingTAP"
+              "title": "Detecting attacks chaining MIs"
+            }
+          },
+          {
+            "id": "c4f93cf26372d51d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MILateralMovement/important KQL queries.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "important KQL queries"
             }
           }
         ]
@@ -185,8 +199,23 @@
   },
   "active": "46945f67d99a0f66",
   "lastOpenFiles": [
-    "Detecting TAP Abuse/Analysing TAP Abuse Logs.md",
+    "MILateralMovement/Pictures_updated/29.png",
+    "MILateralMovement/Pictures_updated/27.png",
+    "MILateralMovement/Detecting attacks chaining MIs.md",
+    "MILateralMovement/important KQL queries.md",
+    "MILateralMovement/Pictures_updated/25.png",
+    "MILateralMovement/Pictures_updated/24.png",
+    "MILateralMovement/Pictures_updated/23.png",
+    "MILateralMovement/Pictures_updated/22.png",
+    "MILateralMovement/Pictures_updated/21.png",
+    "MILateralMovement/Pictures_updated/20.png",
+    "MILateralMovement/Pictures_updated/19.png",
+    "MILateralMovement/Pictures_updated/18.png",
+    "MILateralMovement/Pictures_updated/17.png",
+    "MILateralMovement/The Setup.md",
     "ExploitingTAP.md",
+    "MILateralMovement/Pictures_updated",
+    "Detecting TAP Abuse/Analysing TAP Abuse Logs.md",
     "Detecting TAP Abuse",
     "Pictures"
   ]
