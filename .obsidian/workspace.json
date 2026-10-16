@@ -35,7 +35,8 @@
               "title": "important KQL queries"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,7 +198,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "46945f67d99a0f66",
+  "active": "c4f93cf26372d51d",
   "lastOpenFiles": [
     "MILateralMovement/Pictures_updated/26.png",
     "MILateralMovement/Pictures_updated/29.png",
